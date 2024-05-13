@@ -22,6 +22,10 @@
 ### About Me :
 I am a first year IT student, currently studying Fullstack Web development!
 
+- :globe_with_meridians: I like to selfhost services and application using docker.
+
+- :penguin: Moved to linux since last year of highschool.
+
 - :zap: In my free time, I'd like to read and play video games.
 
 - :mailbox:How to reach me: contact@lilay.dev

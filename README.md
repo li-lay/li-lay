@@ -3,7 +3,9 @@
 </div>
 <div id="badges" align="center">
   <a href="https://lilay.dev">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Flilay.dev" alt="lilay.dev"/>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Flilay.dev&label=Invidious&labelColor=%231B1B1D" alt="lilay.dev"/>
+  <a href="https://vid.lilay.dev">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fvid.lilay.dev&label=Invidious&labelColor=white" alt="lilay.dev"/>
   <a href="https://github.com/li-lay">
   <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
 </div>

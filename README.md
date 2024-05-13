@@ -20,12 +20,14 @@
 </div>
 
 ### About Me :
-I am a first year IT student, currently studying Fullstack Web development!
+I am a first-year IT student, currently studying full-stack web development!
 
-- :globe_with_meridians: I like to selfhost services and application using docker.
+- :penguin: Moved to Linux since my last year of high school.
 
-- :penguin: Moved to linux since last year of highschool.
+- :keyboard: Favorite text editor: Neovim
+
+- :globe_with_meridians: I like to self-host services and applications using Docker.
 
 - :zap: In my free time, I'd like to read and play video games.
 
-- :mailbox:How to reach me: contact@lilay.dev
+- :mailbox: How to reach me: contact@lilay.dev

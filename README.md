@@ -7,7 +7,7 @@
   <a href="https://vid.lilay.dev">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fvid.lilay.dev&label=Invidious&labelColor=%231B1B1D" alt="My Website"/>
   <a href="mailto:contact@lilay.dev">
-  <img src="https://img.shields.io/badge/Email-blue" alt="contact@lilay.dev"/>
+  <img src="https://img.shields.io/badge/Email%20Me-blue" alt="contact@lilay.dev"/>
   <a href="https://github.com/li-lay">
   <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
 </div>

@@ -10,8 +10,11 @@
   <img src="https://img.shields.io/badge/Email%20Me-blue" alt="contact@lilay.dev"/>
   <a href="https://github.com/li-lay">
   <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
-</div>
-<h1>
+  <h1>
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF6czQ3OHd1dGY1cHQyZzY1Zmt5aTBxdW5vNWRjcGUzaGVwcXcxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsZ66RR3f8P8rGw32p/giphy.gif" width="600" height="300"/>
+</div>

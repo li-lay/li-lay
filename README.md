@@ -3,8 +3,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://lilay.dev">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Flilay.dev&label=Website&labelColor=%23594E32" alt="Invidious - Youtube Privacy Frontend"/>
-  <a href="https://vid.lilay.dev">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fvid.lilay.dev&label=Invidious&labelColor=%231B1B1D" alt="My Website"/>
   <a href="mailto:contact@lilay.dev">
   <img src="https://img.shields.io/badge/Email%20Me-blue" alt="contact@lilay.dev"/>

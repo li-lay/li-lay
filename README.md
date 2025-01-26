@@ -18,7 +18,7 @@
 </div>
 
 ### About Me :
-I am a Sophomore IT student, currently studying full-stack web development!
+I am a Sophomore CS student, currently self-studying full-stack web development!
 
 - :penguin: Moved to Linux since my last year of high school.
 

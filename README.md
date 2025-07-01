@@ -18,7 +18,7 @@
 </div>
 
 ### About Me :
-I am a Sophomore CS student, currently self-studying full-stack web development!
+I am a Sophomore CS student, currently self-studying anything that interest me!
 
 - :penguin: Moved to Linux since my last year of high school.
 
@@ -26,6 +26,6 @@ I am a Sophomore CS student, currently self-studying full-stack web development!
 
 - :globe_with_meridians: I like to self-host services and applications using Docker.
 
-- :zap: In my free time, I'd like to read and play video games.
+- :zap: In my free time, I'd like to read and watch anime/movies.
 
 - :mailbox: How to reach me: contact@lilay.dev

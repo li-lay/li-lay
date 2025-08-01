@@ -26,5 +26,5 @@ I am a Sophomore CS student, currently self-studying anything that interest me!
 
 ### Recent Hobby :
 <div align="center">
-  <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Static" /></a>
+  <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Your Image Badge" /></a>
 </div>

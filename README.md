@@ -12,9 +12,9 @@
 </div>
 
 ## About Me :
-I am a Sophomore CS student, currently self-studying anything that interest me!
+I'm a Sophomore CS student, self-studying anything that interest me!
 
-- :penguin: Moved to Linux since my last year of high school.
+- :penguin: Moved to Linux in my last year of high school.
 
 - :keyboard: Best editor imo : Neovim
 

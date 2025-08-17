@@ -16,11 +16,11 @@ I am a Sophomore CS student, currently self-studying anything that interest me!
 
 - :penguin: Moved to Linux since my last year of high school.
 
-- :keyboard: Favorite text editor: Neovim
+- :keyboard: Best editor imo : Neovim
 
-- :globe_with_meridians: I like to self-host services and applications using Docker.
+- :globe_with_meridians: Homelabbing.
 
-- :zap: In my free time, I'd like to read and watch anime/movies.
+- :zap: In my free time, I'd read or watch anime/movies.
 
 - :mailbox: How to reach me: contact@lilay.dev
 

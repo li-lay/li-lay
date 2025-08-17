@@ -25,6 +25,7 @@ I am a Sophomore CS student, currently self-studying anything that interest me!
 - :mailbox: How to reach me: contact@lilay.dev
 
 ### Recent Hobby :
+- Future Trading (L winrate)
 <div align="center">
   <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Your Image Badge" /></a>
 </div>

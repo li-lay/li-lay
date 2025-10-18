@@ -12,7 +12,7 @@
 </div>
 
 ## About Me :
-I'm a Sophomore CS student, self-studying anything that interest me!
+I'm a Junior CS student, self-studying anything that interest me!
 
 - :penguin: Moved to Linux in my last year of high school.
 

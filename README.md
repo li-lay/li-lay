@@ -21,7 +21,7 @@ I'm a Junior CS student, self-studying anything that interest me!
 
 - :rice_scene: Color theme : Gruvbox 
 
-- :zap: In my free time, I'd read or watch anime/movies.
+- :zap: In my free time, I'd read books or watch anime/movies.
 
 - :mailbox: How to reach me: contact@lilay.dev
 

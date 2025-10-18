@@ -16,13 +16,20 @@ I'm a Junior CS student, self-studying anything that interest me!
 
 - :penguin: Moved to Linux in my last year of high school.
 
+- :globe_with_meridians: Homelabbing.
+  
 - :keyboard: Best editor imo : Neovim
 
-- :globe_with_meridians: Homelabbing.
+- :rice_scene: Color theme : Gruvbox 
 
 - :zap: In my free time, I'd read or watch anime/movies.
 
 - :mailbox: How to reach me: contact@lilay.dev
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=li-lay&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=86400" alt="li-lay's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-lay&layout=compact&theme=gruvbox&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ### Recent Hobby :
 - Forex Trading (L winrate)

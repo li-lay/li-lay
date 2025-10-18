@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-    A Computer Science student passionate about Linux, self-hosting, and continuous learning. 
+    A Computer Science student passionate about Linux, Security, and continuous learning. 
 </p>
 
 #### Fun Fact :

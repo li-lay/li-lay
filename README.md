@@ -10,8 +10,7 @@
   <a href="https://github.com/li-lay">
   <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
 </div>
-
-## About Me :
+<br/>
 I'm a Junior CS student, self-studying anything that interest me!
 
 - :penguin: Moved to Linux in my last year of high school.
@@ -31,7 +30,7 @@ I'm a Junior CS student, self-studying anything that interest me!
   <img src="https://streak-stats.demolab.com/?user=li-lay&theme=github_dark&hide_border=true&cache_seconds=86400" alt="li-lay's GitHub Streak" width="49%" />
 </p>
 
-### Recent Hobby :
+#### Recent Hobby :
 - Forex Trading (L winrate)
 <div align="center">
   <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Your Image Badge" /></a>

@@ -27,7 +27,8 @@ I'm a Junior CS student, self-studying anything that interest me!
 - :mailbox: How to reach me: contact@lilay.dev
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li-lay&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=86400" alt="li-lay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=li-lay&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&cache_seconds=86400" alt="li-lay's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=li-lay&theme=github_dark&hide_border=true&cache_seconds=86400" alt="li-lay's GitHub Streak" width="49%" />
 </p>
 
 ### Recent Hobby :

@@ -10,20 +10,18 @@
   <a href="https://github.com/li-lay">
   <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
 </div>
+    
 <br/>
-I'm a Junior CS student, self-studying anything that interest me!
 
-- :penguin: Moved to Linux in my last year of high school.
+<p align="center">
+    A Computer Science student passionate about Linux, self-hosting, and continuous learning. 
+</p>
 
-- :globe_with_meridians: Homelabbing.
-  
-- :keyboard: Best editor imo : Neovim
+#### Fun Fact :
 
-- :rice_scene: Color theme : Gruvbox 
-
-- :zap: In my free time, I'd read books or watch anime/movies.
-
-- :mailbox: How to reach me: contact@lilay.dev
+- 🐧 Daily driving Linux since high school.
+- 🌐 Tinkering with my homelab setup.
+- ⚡ In my free time, I enjoy reading and watching anime && movie.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=li-lay&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&cache_seconds=86400" alt="li-lay's GitHub Stats" width="49%" />

@@ -20,7 +20,7 @@
 #### Fun Fact :
 
 - 🐧 Daily driving Linux since high school.
-- 📦 Open‑source package maintainer: Fedora Copr build with 5,000+ downloads [topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/).
+- 📦 Open‑source package maintainer: Fedora Copr build with 5,000+ downloads for [topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/).
 - 🌐 Tinkering with my homelab setup.
 - ⚡ In my free time, I enjoy reading and watching anime && movie.
 

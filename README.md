@@ -19,8 +19,9 @@
 
 #### Fun Fact :
 
+- 🐧 Maintainer of [Origami Linux](https://origami.wf)
+- 📦 Maintainer of the Fedora Copr package for [Topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/) (6,000+ downloads).
 - 🐧 Daily driving Linux since high school.
-- 📦 Open‑source package maintainer: Fedora Copr build with 5,000+ downloads for [topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/).
 - 🌐 Tinkering with my homelab setup.
 - ⚡ In my free time, I enjoy reading and watching anime && movie.
 

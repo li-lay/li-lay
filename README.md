@@ -24,13 +24,7 @@
 - 🌐 Tinkering with my homelab setup.
 - ⚡ In my free time, I enjoy reading and watching anime && movie.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=li-lay&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&cache_seconds=86400" alt="li-lay's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=li-lay&theme=github_dark&hide_border=true&cache_seconds=86400" alt="li-lay's GitHub Streak" width="49%" />
-</p>
-
 #### Recent Hobby :
-- Forex Trading (L winrate)
 <div align="center">
   <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Your Image Badge" /></a>
 </div>

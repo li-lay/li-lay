@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-    A Computer Science student passionate about Linux, Security, and continuous learning. 
+    It is what it is!
 </p>
 
 #### Fun Fact :
@@ -24,8 +24,3 @@
 - 🐧 Daily driving Linux since high school.
 - 🌐 Tinkering with my homelab setup.
 - ⚡ In my free time, I enjoy reading and watching anime && movie.
-
-#### Recent Hobby :
-<div align="center">
-  <a href="https://tryhackme.com/p/l1l4y"><img src="https://tryhackme-badges.s3.amazonaws.com/l1l4y.png" alt="Your Image Badge" /></a>
-</div>

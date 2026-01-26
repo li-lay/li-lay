@@ -4,23 +4,33 @@
 
 <div id="badges" align="center">
   <a href="https://lilay.dev">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Flilay.dev&label=Website&labelColor=%23594E32" alt="Portfolio"/>
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Flilay.dev&label=Website&labelColor=%23594E32" alt="Portfolio"/>
+  </a>
   <a href="mailto:contact@lilay.dev">
-  <img src="https://img.shields.io/badge/Email%20Me-blue" alt="contact@lilay.dev"/>
+    <img src="https://img.shields.io/badge/Email%20Me-blue" alt="contact@lilay.dev"/>
+  </a>
   <a href="https://github.com/li-lay">
-  <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=li-lay&style=flat-square&color=blue" alt="views"/>
+  </a>
 </div>
-    
+
 <br/>
 
 <p align="center">
-    It is what it is!
+  <q>Keeping it simple, making it work.</q>
 </p>
 
-#### Fun Fact :
+### What I Do
+- **Maintainer** of [Origami Linux](https://origami.wf)
+- **Maintainer** of the Fedora Copr package for [Topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/)
+- Daily‑driving Linux since high school
+- Tinkering with my homelab setup
 
-- 🐧 Maintainer of [Origami Linux](https://origami.wf)
-- 📦 Maintainer of the Fedora Copr package for [Topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/)
-- 🐧 Daily driving Linux since high school.
-- 🌐 Tinkering with my homelab setup.
-- ⚡ In my free time, I enjoy reading and watching anime && movie.
+### Interests
+- Reading & watching anime & movies  
+- Exploring new Linux tools and workflows  
+
+### Get in Touch
+- **Website:** <https://lilay.dev>  
+- **Email:** <contact@lilay.dev>  
+- **GitHub:** <https://github.com/li-lay>

@@ -24,13 +24,5 @@
 - **Maintainer** of [Origami Linux](https://origami.wf)
 - **Maintainer** of the Fedora Copr package for [Topgrade](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/)
 - Daily‑driving Linux since high school
-- Tinkering with my homelab setup
-
-### Interests
-- Reading & watching anime & movies  
-- Exploring new Linux tools and workflows  
-
-### Get in Touch
-- **Website:** <https://lilay.dev>  
-- **Email:** <contact@lilay.dev>  
-- **GitHub:** <https://github.com/li-lay>
+- Self-Hosting stuff, btw
+- And uhh... I use Neovim, btw
